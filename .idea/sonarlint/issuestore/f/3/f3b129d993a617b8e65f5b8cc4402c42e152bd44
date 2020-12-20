@@ -1,0 +1,8 @@
+
+v
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶Ÿˆá8—ÕŽóç.
+a
+java:S1854A"?Remove this useless assignment to local variable "destination".(¥ßÆÎþÿÿÿÿ8ÐÞóóç.
+j
+java:S1226A"HIntroduce a new variable instead of reusing the parameter "destination".(¥ßÆÎþÿÿÿÿ8ÐÞóóç.

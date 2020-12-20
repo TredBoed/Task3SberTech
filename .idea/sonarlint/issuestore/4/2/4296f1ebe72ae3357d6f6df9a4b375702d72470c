@@ -1,0 +1,26 @@
+
+V	java:S106˜"9Replace this use of System.out or System.err by a logger.(¥²˜Å8“ù³…è.
+Q
+java:S3740L"/Provide the parametrized type for this generic.(âÎııÿÿÿÿ8½§ûƒè.
+Q
+java:S3740"/Provide the parametrized type for this generic.(‚³™ºşÿÿÿÿ8±¹‚è.
+Q
+java:S3740"/Provide the parametrized type for this generic.(•Å¸ªıÿÿÿÿ8‹ê–‚è.
+Q
+java:S3740k"/Provide the parametrized type for this generic.(ë—­¡øÿÿÿÿ8ÔÒ£…è.
+L
+java:S5411s"*Use the primitive boolean expression here.(ıü‡Ìûÿÿÿÿ8“ù³…è.
+H
+java:S1168M"+Return an empty collection instead of null.(‚§¹Ì8ÓéÄ„è.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(İ›ãûÿÿÿÿ8Õ‰‘øç.
+Y	java:S125Š"<This block of commented-out lines of code should be removed.(íü¯à8“ù³…è.
+X	java:S125P"<This block of commented-out lines of code should be removed.(¶šèï8åÜğ„è.
+L
+java:S5411^"*Use the primitive boolean expression here.(ıü‡Ìûÿÿÿÿ8«™¤…è.
+X	java:S125j"<This block of commented-out lines of code should be removed.(”îò8ÔÒ£…è.
+>
+java:S2326"T is not used in the method.(‚³™ºşÿÿÿÿ8±¹‚è.
+c
+java:S1126="AReplace this if-then-else statement by a single return statement.(ùœºÆúÿÿÿÿ8ó¡Ù÷ç.
+]	java:S125K"<This block of commented-out lines of code should be removed.(Ä¢¬‰ıÿÿÿÿ8¾‚à÷ç.

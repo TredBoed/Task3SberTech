@@ -1,0 +1,17 @@
+
+V
+java:S3400"9Remove this method and declare a constant for this value.(˜€¬Ó8Óôò‚è.
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8·Šë‚è.
+D
+java:S16046"(Make this anonymous inner class a lambda(©îx8·Šë‚è.
+_
+java:S2259="BA "NullPointerException" could be thrown; "max()" can return null.(£Æ¶œ8ïÿ‚è.
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(üÉõ±øÿÿÿÿ8¶åü‚è.
+J
+java:S16040"(Make this anonymous inner class a lambda(ü‘ëÅøÿÿÿÿ8·Šë‚è.
+d
+java:S2259>"BA "NullPointerException" could be thrown; "max()" can return null.(üÉõ±øÿÿÿÿ8ïÿ‚è.
+U	java:S106="9Replace this use of System.out or System.err by a logger.(£Æ¶œ8Œû‚è.
+E
+java:S1604A"(Make this anonymous inner class a lambda(¨¡àï8·Šë‚è.
